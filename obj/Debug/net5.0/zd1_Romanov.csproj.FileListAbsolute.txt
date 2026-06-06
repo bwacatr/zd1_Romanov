@@ -1,0 +1,16 @@
+C:\Users\305-7\Desktop\Романов ПР-21\zd1_Romanov\bin\Debug\net5.0\zd1_Romanov.exe
+C:\Users\305-7\Desktop\Романов ПР-21\zd1_Romanov\bin\Debug\net5.0\zd1_Romanov.deps.json
+C:\Users\305-7\Desktop\Романов ПР-21\zd1_Romanov\bin\Debug\net5.0\zd1_Romanov.runtimeconfig.json
+C:\Users\305-7\Desktop\Романов ПР-21\zd1_Romanov\bin\Debug\net5.0\zd1_Romanov.runtimeconfig.dev.json
+C:\Users\305-7\Desktop\Романов ПР-21\zd1_Romanov\bin\Debug\net5.0\zd1_Romanov.dll
+C:\Users\305-7\Desktop\Романов ПР-21\zd1_Romanov\bin\Debug\net5.0\ref\zd1_Romanov.dll
+C:\Users\305-7\Desktop\Романов ПР-21\zd1_Romanov\bin\Debug\net5.0\zd1_Romanov.pdb
+C:\Users\305-7\Desktop\Романов ПР-21\zd1_Romanov\obj\Debug\net5.0\zd1_Romanov.csproj.AssemblyReference.cache
+C:\Users\305-7\Desktop\Романов ПР-21\zd1_Romanov\obj\Debug\net5.0\zd1_Romanov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-7\Desktop\Романов ПР-21\zd1_Romanov\obj\Debug\net5.0\zd1_Romanov.AssemblyInfoInputs.cache
+C:\Users\305-7\Desktop\Романов ПР-21\zd1_Romanov\obj\Debug\net5.0\zd1_Romanov.AssemblyInfo.cs
+C:\Users\305-7\Desktop\Романов ПР-21\zd1_Romanov\obj\Debug\net5.0\zd1_Romanov.csproj.CoreCompileInputs.cache
+C:\Users\305-7\Desktop\Романов ПР-21\zd1_Romanov\obj\Debug\net5.0\zd1_Romanov.dll
+C:\Users\305-7\Desktop\Романов ПР-21\zd1_Romanov\obj\Debug\net5.0\ref\zd1_Romanov.dll
+C:\Users\305-7\Desktop\Романов ПР-21\zd1_Romanov\obj\Debug\net5.0\zd1_Romanov.pdb
+C:\Users\305-7\Desktop\Романов ПР-21\zd1_Romanov\obj\Debug\net5.0\zd1_Romanov.genruntimeconfig.cache
