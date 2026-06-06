@@ -11,7 +11,7 @@ namespace zd1_Romanov
         private string name;
         private double weight;
 
-        public double Weight
+        public double Weight // Свойство веса
         {
             get { return weight; }
             set
@@ -27,7 +27,7 @@ namespace zd1_Romanov
             }
         }
 
-        public string Info()
+        public string Info() // метод вывода информации о коте
         {
             return $"Имя кота: {name}\n" +
                 $"Вес кота: {weight}";   
